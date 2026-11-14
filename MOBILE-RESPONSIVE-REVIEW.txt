@@ -1,0 +1,22 @@
+S.L.V Chest & Allergy Clinic — Mobile Responsive Refinement
+
+This package keeps the existing visual identity and desktop layout. It adds a
+mobile-specific refinement layer to improve navigation, hero readability,
+section spacing, service cards, doctor profile presentation, appointment and
+contact cards, footer readability, touch targets and safe-area spacing for the
+sticky Call / WhatsApp bar.
+
+No clinic content, medical claims, contact details, appointment workflow,
+backend, or desktop design has intentionally been changed.
+
+Files changed:
+- css/style.css (appended mobile-only and reduced-motion refinements)
+
+Pre-deployment checks still required:
+1. Preview every page at 360px, 390px, 430px, tablet width and desktop.
+2. Open/close the mobile navigation and verify all links.
+3. Test Call and WhatsApp actions on a real phone.
+4. Confirm all clinic information and image permissions with the clinic.
+5. Back up Hostinger public_html before replacing any live files.
+
+This package has not been deployed and has not received real-device testing.
